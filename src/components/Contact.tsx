@@ -179,7 +179,7 @@ const Contact = () => {
 
 
       {/* Location Map Section */}
-      <section className="w-full bg-white py-16">
+      {/* <section className="w-full bg-white py-16">
         <div className="max-w-4xl mx-auto px-4">
           <h3 className="text-3xl font-bold text-[#133331] mb-6 text-center">Our Location</h3>
           <p className="text-center text-slate-600 mb-8">Visit us at our office or find us on the map below.</p>
@@ -196,7 +196,7 @@ const Contact = () => {
             ></iframe>
           </div>
         </div>
-      </section>
+      </section> */}
     </>
   );
 };
